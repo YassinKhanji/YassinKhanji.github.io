@@ -1,5 +1,3 @@
-# Quantitative Finance Student
-
 #### Technical Skills: Python, Java, SQL, PyTorch, TensorFlow, Scikit-Learn
 
 ## Education
