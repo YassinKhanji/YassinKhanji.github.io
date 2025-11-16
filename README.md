@@ -5,7 +5,7 @@
   - Relevant Coursework: Operations Research, Statistics, Probability, Financial Accounting, Financial Markets, Micro-Macroeconomics, Advanced Calculus, Linear Algebra, Analysis, OOP, DSA, Machine Learning
 
 ## Work Experience
-**Quantitative Research Manager @ QUARCC Research Group (_January 2025 - Present_)**
+**Quantitative Research Manager @ QUARCC Research Group (_January 2025 - November 2025_)**
 - Conduct quantitative research across crypto and traditional markets, developing custom indicators, trading strategies, and portfolio management algorithms
 - Develop machine learning and statistical based solutions and compete in trading and algorithmic competitions
 
