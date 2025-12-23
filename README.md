@@ -1,4 +1,4 @@
-In a rush? Ask my personal career chatbot:
+In a rush? Ask my personal career chatbot:  
 https://notablackdev-career-conversation.hf.space/
 
 #### Technical Skills: Python, Java, SQL, PyTorch, TensorFlow, Scikit-Learn
